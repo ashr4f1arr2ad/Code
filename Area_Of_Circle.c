@@ -6,4 +6,4 @@ int main() {
     cal = 3.1416 * r * r;
     printf("Cal = %.4lf\n", cal);
     return 0;
-}  
+}
